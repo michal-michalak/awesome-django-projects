@@ -29,3 +29,6 @@
 21. https://github.com/reviewboard/reviewboard
 22. https://github.com/wger-project/wger
 23. https://github.com/edx/edx-platform
+24. https://github.com/dimagi/commcare-hq
+25. https://github.com/arrobalytics/django-ledger
+26. https://github.com/mozilla/fx-private-relay
