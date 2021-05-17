@@ -32,3 +32,8 @@
 24. https://github.com/dimagi/commcare-hq
 25. https://github.com/arrobalytics/django-ledger
 26. https://github.com/mozilla/fx-private-relay
+27. https://github.com/mdn/kuma
+28. https://github.com/mozilla/kitsune
+29. https://github.com/django/djangoproject.com
+30. https://github.com/harvard-lil/capstone
+31. https://github.com/freelawproject/courtlistener
