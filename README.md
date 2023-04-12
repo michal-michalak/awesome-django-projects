@@ -42,3 +42,20 @@
 34. https://github.com/Flagsmith/flagsmith
 35. https://github.com/vitorfs/bootcamp
 36. https://github.com/makeplane/plane/tree/develop/apiserver/plane
+37. https://github.com/jumpserver/jumpserver
+38. https://github.com/LibrePhotos/librephotos
+39. https://github.com/paperless-ngx/paperless-ngx
+40. https://github.com/QingdaoU/OnlineJudge
+41. https://github.com/TandoorRecipes/recipes
+42. https://github.com/DefectDojo/django-DefectDojo/
+43. https://github.com/hooram/ownphotos/
+44. https://github.com/inventree/InvenTree/
+45. https://github.com/modoboa/modoboa/
+46. https://github.com/milesmcc/shynet/
+
+## Platforms for further development
+
+1. https://github.com/saleor/saleor
+2. https://github.com/wagtail/wagtail
+3. https://github.com/django-cms/django-cms
+4. https://github.com/awesto/django-shop
