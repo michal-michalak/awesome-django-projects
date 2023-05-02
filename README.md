@@ -52,6 +52,7 @@
 44. https://github.com/inventree/InvenTree/
 45. https://github.com/modoboa/modoboa/
 46. https://github.com/milesmcc/shynet/
+47. https://github.com/welliamcao/OpsManage/
 
 ## Platforms for further development
 
