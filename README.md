@@ -55,6 +55,7 @@
 47. https://github.com/milesmcc/shynet/
 48. https://github.com/welliamcao/OpsManage/
 49. https://github.com/liangliangyy/DjangoBlog/
+50. https://github.com/danjac/radiofeed-app/
 
 ## Platforms for further development
 
