@@ -56,6 +56,7 @@
 48. https://github.com/welliamcao/OpsManage/
 49. https://github.com/liangliangyy/DjangoBlog/
 50. https://github.com/danjac/radiofeed-app/
+51. https://github.com/goauthentik/authentik/
 
 ## Platforms for further development
 
