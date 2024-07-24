@@ -4,7 +4,7 @@
 </div>
 
 # awesome-django-projects
-> Highly opinionated list of awesome Django projects. 🤓 Use it in your favor to learn and adopt code into great projects and products 💪
+> Highly opinionated list of awesome Django projects. 🤓 Use it in your favor to learn and adopt code into great projects and products. 💪
 
 1. https://github.com/ansible/awx/tree/devel/awx
 2. https://github.com/mozilla/zamboni/
@@ -57,6 +57,7 @@
 49. https://github.com/liangliangyy/DjangoBlog/
 50. https://github.com/danjac/radiofeed-app/
 51. https://github.com/goauthentik/authentik/
+52. https://github.com/grafana/oncall
 
 ## Platforms for further development
 
