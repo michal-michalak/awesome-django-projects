@@ -58,6 +58,7 @@
 50. https://github.com/danjac/radiofeed-app/
 51. https://github.com/goauthentik/authentik/
 52. https://github.com/grafana/oncall
+53. https://github.com/wger-project/wger
 
 ## Platforms for further development
 
