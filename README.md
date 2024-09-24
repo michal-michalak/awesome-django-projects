@@ -8,7 +8,7 @@
 
 1. https://github.com/ansible/awx/tree/devel/awx
 2. https://github.com/mozilla/zamboni/
-3. https://github.com/getsentry/sentry3
+3. https://github.com/getsentry/sentry
 4. https://github.com/mozilla/addons-server
 5. https://github.com/taigaio/taiga-back
 6. https://github.com/arachnys/cabot
