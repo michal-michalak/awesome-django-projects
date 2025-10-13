@@ -59,6 +59,7 @@
 51. https://github.com/goauthentik/authentik/
 52. https://github.com/grafana/oncall
 53. https://github.com/wger-project/wger
+54. https://github.com/openstack/horizon/
 
 ## Platforms for further development
 
