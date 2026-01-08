@@ -60,6 +60,7 @@
 52. https://github.com/grafana/oncall
 53. https://github.com/wger-project/wger
 54. https://github.com/openstack/horizon/
+55. https://gitlab.com/glitchtip/glitchtip-backend
 
 ## Platforms for further development
 
