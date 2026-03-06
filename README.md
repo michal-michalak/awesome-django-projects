@@ -37,7 +37,7 @@
 29. https://github.com/django/djangoproject.com
 30. https://github.com/harvard-lil/capstone
 31. https://github.com/freelawproject/courtlistener
-32. https://gitlab.com/bramw/baserow/
+32. https://github.com/baserow/baserow
 33. https://github.com/allegro/ralph
 34. https://github.com/allegro/vaas
 35. https://github.com/Flagsmith/flagsmith
@@ -61,6 +61,9 @@
 53. https://github.com/wger-project/wger
 54. https://github.com/openstack/horizon/
 55. https://gitlab.com/glitchtip/glitchtip-backend
+56. https://github.com/suitenumerique/drive
+57. https://github.com/suitenumerique/docs
+58. https://github.com/Dispatcharr/Dispatcharr
 
 ## Platforms for further development
 
